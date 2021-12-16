@@ -25,7 +25,9 @@
           
           Notes about project:
           
-          The objective of this project was to create a console application via Object Oriented Programming C++ on Visual Studio and CodeBlocks to alllow the user to play a full functioning Blackjack game. Through the objective shines the key learning concepts of the course and mastery of the C++ language.           
+          The objective of this project was to create a console application via Object Oriented Programming C++ 
+          on Visual Studio and CodeBlocks to alllow the user to play a full functioning Blackjack game. 
+          Through the objective shines the key learning concepts of the course and mastery of the C++ language.           
           
           
           
