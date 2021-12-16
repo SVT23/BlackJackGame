@@ -22,3 +22,10 @@
           12. You can only double/split on the first move, or first move of a hand created by a split.
           13. You cannot play on two aces after they are split.
           14. You can double on a hand resulting from a split, tripling or quadrupling you bet.
+          
+          Notes about project:
+          
+          The objective of this project was to create a console application via Object Oriented Programming C++ on Visual Studio and CodeBlocks to alllow the user to play a full functioning Blackjack game. Through the objective shines the key learning concepts of the course and mastery of the C++ language.           
+          
+          
+          
