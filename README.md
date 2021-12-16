@@ -6,6 +6,11 @@
                                        
 ![SFML STATIC IMAGE](https://user-images.githubusercontent.com/89869300/146312144-ba5258de-4a13-456a-8e7b-6bc1745ee5fa.png)
 
+          Error List:
+          
+          ![image](https://user-images.githubusercontent.com/89869300/146408428-181ed347-6395-4129-8747-ed0ba5f591ed.png)
+
+
           Rules of Blackjack:
           
           1. The goal of blackjack is to beat the dealer's hand without going over 21.
