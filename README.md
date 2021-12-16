@@ -8,7 +8,7 @@
 
           Error List:
           
-          ![image](https://user-images.githubusercontent.com/89869300/146408428-181ed347-6395-4129-8747-ed0ba5f591ed.png)
+![image](https://user-images.githubusercontent.com/89869300/146408428-181ed347-6395-4129-8747-ed0ba5f591ed.png)
 
 
           Rules of Blackjack:
