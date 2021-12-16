@@ -27,7 +27,18 @@
           
           The objective of this project was to create a console application via Object Oriented Programming C++ 
           on Visual Studio and CodeBlocks to alllow the user to play a full functioning Blackjack game. 
-          Through the objective shines the key learning concepts of the course and mastery of the C++ language.           
+          Through the objective shines the key learning concepts of the course and mastery of the C++ language.
+          
+          Key concepts incorporated:
+          1. Creation of multiple classes
+          2. Use of composition --> classes like deck, hand, player, and card used objects of other classes. EX: "player has a hand which has a card."
+          3. Inheritance EX: "Dealer is a player"
+          4. Overloaded constructors 
+          5. Use of initialization list
+          6. Use of private, public, and protected members
+          7. Use of iterators 
+          8. Use of Simple and Fast Multmedia Library (SFML) to produce the static image displayed. 
+         
           
           
           
