@@ -1,9 +1,15 @@
+// Card.cpp file for Blackjack game
+// Final Project OOP COP 3003
+// Professor Vanselow
+// Creator: Spence Van Tiem 
+// Date: 11/15/2021
+
 #include "Card.h"
 #include <string>
 
 using namespace std;
 
-Card::Card() {
+Card::Card() { //LO1 //LO1C
 	value = '0';
 	suit = '0';
 

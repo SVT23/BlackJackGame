@@ -2,15 +2,16 @@
 // Spence Van Tiem 
 // COP 3003
 // 11/24/21
+
 #include "Deck.h"
 
 using namespace std;
 
-Deck::Deck()
+Deck::Deck() // LO1
 {
     srand(time(0));
     create();
-    //ctor
+    //constructor
 }
 
 Deck::Deck(int timesShuffled)
@@ -26,7 +27,7 @@ Deck::~Deck()
     {
         delete deck[i];
     }
-    //dtor
+    //deconstructor
 }
 
 void Deck::create()

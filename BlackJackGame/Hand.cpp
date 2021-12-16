@@ -8,7 +8,7 @@
 
 using namespace std;
 
-Hand::Hand()
+Hand::Hand() // LO1 
 {
     for (int i = 0; i <= Size; i++)
     {

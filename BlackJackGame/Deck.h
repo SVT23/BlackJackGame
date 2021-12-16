@@ -1,7 +1,11 @@
-// Deck .h file for the blackjack game
-// Spence Van Tiem 
-// COP 3003
-// 11/12/21
+// Deck.h Blackjack game
+// Final Project OOP COP 3003
+// Professor Vanselow
+// Creator: Spence Van Tiem 
+// Date: 11/12/2021
+
+// LO1A
+
 #pragma once
 #include <string>
 #include <iostream>
@@ -11,9 +15,9 @@
 
 using namespace std;
 
-class Deck
+class Deck // LO1
 {
-public:
+public: //LO1C // LO1B // LO6
     Deck();
     Deck(int timesShuffled);
     virtual ~Deck();
@@ -28,7 +32,7 @@ public:
 
 protected:
 
-private:
+private: // LO1C // LO6
     static const int Size = 52;
     Card* deck[Size];
     void create(); //creates a full unshuffled deck

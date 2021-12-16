@@ -1,16 +1,19 @@
 // Hand .h file for blackjack game 
 // Spence Van Tiem 
-// COP 3003 
+// COP 3003 Final Project
 // 11/10/21
+
+// LO1A
+
 #pragma once
 #include "Card.h"
 #include <string>
 
 using namespace std;
 
-class Hand
+class Hand // LO1
 {
-public:
+public: // LO1C // LO1B // LO6
     Hand();
     Hand(Card* c1, Card* c2);
     virtual ~Hand();
@@ -28,7 +31,7 @@ public:
 
 protected:
 
-private:
+private: // LO6
     static const int Size = 5;
     static const int Win = 21;
 
