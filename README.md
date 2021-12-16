@@ -43,6 +43,15 @@
           6. Use of private, public, and protected members
           7. Use of iterators 
           8. Use of Simple and Fast Multmedia Library (SFML) to produce the static image displayed. 
+          
+          Citations: 
+          1. https://sites.google.com/site/profvanselow/course/cop-3003
+          2. http://www.hitorstand.net/strategy.php
+          3. https://www.learncpp.com/
+          4. https://en.wikipedia.org/wiki/Main_Page
+          5. https://www.geeksforgeeks.org/
+          6. https://stackoverflow.com/
+      
          
           
           
